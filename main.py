@@ -1,1 +1,2 @@
 print("Nay")
+print("Nay")
